@@ -1,0 +1,135 @@
+Laws of Chemical Combination:
+
+The Law of conservation of mass:  This law states that, the total mass of reactants is equal to the total mass of products. In any chemical reaction, the total mass of the substance before and after the reaction is the same although its matter undergoes a physical change.
+
+Law of Definite Proportions:  According to law of definite proportions, in a chemical substance, the elements are always present in definite proportions by mass.
+
+Law of Multiple Proportions:  When two elements combine to form different compounds, then the weight of one is constant and the other has a simple ratio.
+
+Atom:  After a series of experiments Dalton concluded that all matter must be composed of tiny particles, which cannot be further divided. He called them atoms.
+Definition of an atom: The smallest particle of an element is called an atom.
+ 
+Dalton’s Postulates:
+
+    Matter is made of atoms.
+    Atoms are indivisible and indestructible.
+    Atoms of a given element are identical in mass and in properties.
+    Compounds are formed by a combination of two or more different kinds of atoms and. A chemical reaction is a rearrangement of atoms.
+    Atoms of different elements have different masses and chemical properties.
+
+
+Draw backs of Dalton's atomic theory:
+
+    According modern atomic theory atoms are divisible and are composed of particles. The three main sub-atomic particles are proton, neutron and electron.
+    The assumption, atoms of a given element are identical in mass and in properties not applicable for isotopes of an element.
+
+Examples: Chlorine has 2 isotopes having mass numbers 35 and 37. 
+
+Elements and symbols: Dalton proposed a scheme of notation to represent elements
+Dalton's Symbols of Elements
+
+
+ 
+
+The symbols used today were suggested by Berzelius.
+
+Berzelius - Symbols of Elements:  Berzelius Suggested to abbreviate the names of the elements using one or two letters.
+The first letter of the symbol is always in upper case. Some elements were represented by the starting alphabet of its name. For instance,
+Carbon is represented as C
+Boron as B
+Oxygen as O
+Sulphur as S
+Nitrogen is written as N and
+Hydrogen as H
+Symbols of some elements were the first two alphabets, where the second alphabet is in the lower case. 
+Examples: Aluminium is represented as Al
+Chlorine as Cl.
+
+An element is represented by either the first or the first and any other letter of its Latin name. There are some exceptions while writing the symbols for some of the elements. These names were derived from Latin. In general, the first letter and the second letter of their Latin names are used to represent the symbols of these elements.
+
+
+Molecule:  A molecule is the smallest particle of an element or compound that can exist independently.
+Examples:
+H2O, O2, O3 etc.
+Single Hydrogen is not a molecule. When this hydrogen bonds to other hydrogen (H2) or to other elements like oxygen (H2O), a molecule is formed.
+
+Atomicity:  The number of atoms constituting a molecule is referred to as atomicity.
+A molecule which contains only one atom is called monatomic
+Example: Noble gases like Helium (He), Neon (Ne), Argon (Ar) etc.
+
+A molecule which contains two atoms is called diatomic 
+Example: Hydrogen (H2), Chlorine (Cl2), Nitrogen (N2) etc.
+
+A molecule which contains three atoms is called triatomic.
+Example: O3, H2O.
+
+A molecule which contains four atoms is called teraatomic.
+Example: Phosphorus (P4).
+
+A molecule which contains more atoms is called polyatomic.
+Example: Sulphur (S8).
+
+Compound:  Elements combine to form compounds. Thus a molecule of a compound has two or more elements.
+Example: Water (H2O), Glucose (C6H12O6), Calcium oxide (CaO), Sodium chloride (NaCl) etc.
+
+Differences between a molecule and a compound:  A molecule is formed when two or more atoms bonded chemically. A compound is formed when different elements bonded chemically. Thus a molecule of a compound has two or more elements.
+All compounds are molecules but all molecules are not compounds.
+Example: Molecular hydrogen (H2) is a molecule but not compound. Hydrogen molecule is made up of two atoms of hydrogen. Water is a compound. Water is made up of two atoms of oxygen and one atom of oxygen these atoms combined to form a compound known as water. Smallest particle of water is called a molecule.
+
+Common salt is a compound of sodium and chlorine, where sodium is a positively charged particle and chlorine a negatively charged particle, and each of this is called an ion.
+
+Ion:  
+An ion is a charged particle.
+
+Cation:  
+A positively charged particle in a molecule is called cation.
+Example: Na+, Ca+2.
+ 
+Anion:  
+An anion is a negatively charged particle in a molecule.
+Example: F-, Cl-.
+
+Differences between Cation & Anion:
+                     
+
+    Cation is a positively charged particle
+
+    Cation is formed from Metals
+
+    During electrolysis cation moves towards cathode
+
+    The size of cation is smaller than its parent atom
+
+       Example: Na+, K+.
+	
+
+    An anion is a negatively charged particle
+
+    Anion is formed by Non-metals
+
+    During electrolysis anion moves towards anode
+
+    The size of anion is larger than its parent atom.
+
+        Example: Cl-, Br-.
+
+
+Valency: The combining capacity of an element is known as valency.
+The combining capacity of the atoms to form molecules either with same or different elements is defined as valency.
+
+Atom contains less than four electrons in its outermost shell; the valency of an atom is equal to the number of electrons present in the valence shell.
+Examples:
+Sodium has one electron in its outermost shell, so the valency of sodium is 1.
+Calcium has two electrons in its outermost shell, so the valency of calcium is 2.
+Aluminum has three electrons in its outermost shell, so the valency of aluminum is 3.
+
+If the outer shell has more than four electrons, the valency = 8 - the number of electrons in the outer shell.
+
+Question:  Find the valency of chlorine?
+Solution: The atomic number of chlorine is 17
+Electronic configuration of Chlorine = 2 8 7
+Valency = 8 - 7 =1 
+Valency of chlorine is 1
+
+
+

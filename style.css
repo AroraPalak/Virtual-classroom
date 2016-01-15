@@ -1,0 +1,167 @@
+html{
+	width:100%;
+	height:100%;
+}
+
+*{
+	box-sizing:border-box;
+	-webkit-box-sizing:box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-khtml-box-sizing:border-box;
+
+}
+
+
+.body{
+
+	width: 100%;
+	height: 100%;
+
+}
+
+.wrapper{
+
+width:100%;
+height:auto;
+margin: auto;
+background-color: rgba(250, 245, 245, 0.44);
+margin-top: 10px;
+font: 62.5% Helvetica,Arial,sans-serif;
+font-size: 24px;
+overflow: hidden;
+}
+
+
+
+
+.main{
+
+	width: 100%;
+	height: auto;
+   	margin: auto;
+	margin-bottom: 20px;
+	background-color: rgba(210, 196, 196, 0.12);
+	
+   }
+
+
+.formcls{
+padding-top: 10px;
+width: 1100px;
+height: auto;
+margin: auto;
+background-color: rgba(255, 248, 247, 0.48);
+color: #384047;
+border-radius: 10px;
+box-shadow: 10px 10px 20px -10px black;
+font-size: 16px;
+font-family:Helvetica, Arial, sans-serif;
+    background-position: center top;
+    background-repeat: repeat-x;
+    background-image: url("rainbow-border-2c933ebc6731ae7bfc8d825a6ad52b4d.png");
+    background-size: 100% 8px;
+    
+}
+
+
+.formcls input,select,option{
+
+	border-color: rgba(237, 230, 153, 0.61);
+	width: 350px;
+	height: 40px;
+	padding: 5px;
+	color: #5A5858;
+	font-family:Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	border-radius: 5px;
+	letter-spacing: 2px;
+
+}
+
+
+
+.formcls table { border-collapse: collapse; border-spacing: 0; font-family:Helvetica, Arial, sans-.serif; width: 1100px; margin: auto; }
+
+caption { font-size: 25px; margin: 1em auto; background-color:#C85969; padding: 2px; color: white; }
+
+.formcls th { letter-spacing: 1px; padding: .75em;  text-align: right; padding-left: 50px; width: 250px; font-family:Helvetica, Arial, sans-serif;}
+.formcls td{ padding: .75em; padding-left: 5px;}
+
+
+
+
+
+
+#sub-btn{
+
+border-radius: 5px;
+color: #fff;
+background-color: rgba(55, 69, 123, 0.86);
+width: 250px;
+height: 60px;
+font-family:Helvetica, Arial, sans-serif;
+ font-size: 20px;
+ text-align: center;
+padding: 5px;
+border-style: solid;
+box-shadow: 0px -1px 0px rgba(255, 255, 255, 0.1) inset;
+color: #FFF;
+border-width: 1px 1px 3px;
+border-color: rgba(55, 69, 123, 0.86);
+
+
+}
+
+#sub-btn:hover{
+background-color: rgba(60, 80, 159, 0.86);
+border-color: rgba(55, 69, 123, 0.86);
+border-radius: 5px;
+}
+
+
+
+
+draw{font-size: 16px;
+		color: red;}
+
+td ,th{
+font-size: 16pt;
+color:  #686060;
+}
+
+.courselist ul{
+	
+	display:inline-block;
+	
+}
+ .courselist ul ol{
+	
+	width: 300px;
+
+	display: inline-block;
+}
+
+
+
+ .courselist ol label{
+
+   
+	display: inline-block;
+	margin: 0px;
+	
+}	
+
+
+
+input[type="checkbox"]{
+
+	display: inline-block;
+	margin:auto;
+
+
+}
+
+input[type=submit]{
+	margin-left: 40px;
+}
